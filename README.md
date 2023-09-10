@@ -1,4 +1,4 @@
-# CAIS-Winter-Project
+# ASL Alphabet Classification
 Jessica Fu
 fujessic@usc.edu
 
